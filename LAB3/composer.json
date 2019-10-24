@@ -1,0 +1,13 @@
+{
+    "name": "user/lab3",
+    "authors": [
+        {
+            "name": "Maxim",
+            "email": "maxim.grajdianu@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "vlucas/valitron": "^1.4"
+    }
+}
